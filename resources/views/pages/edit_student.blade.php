@@ -60,7 +60,6 @@
                             <input type="submit" class="btn btn-primary" value="Update Now">
                             <a href="{{ route('student') }}" class="btn bt-lg btn-warning">Back to Students</a>
                         </div>
-
                     </div>
                 </form>
             </div>
